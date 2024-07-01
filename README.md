@@ -1,5 +1,7 @@
 # MyTelegramOrgRoBot
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=github.com/PredatorHackerzZ/MyTelegramOrgRoBotgit&repository=&branch=main&name=t0x1cc_bot)
+
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
 ### ⚠ legal DISclaimER 🚸
